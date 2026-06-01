@@ -1,0 +1,47 @@
+# Danh sách từ khóa bị cấm
+# Các từ này sẽ bị kiểm duyệt tự động bởi Safety Shield
+
+# Chính trị
+chính trị
+tôn giáo
+đảng
+chế độ
+cách mạng
+bầu cử
+
+# Tôn giáo
+kỳ thị tôn giáo
+Allah
+Buddha
+thượng đế
+địa ngục
+
+# Từ tục tĩu
+đụ
+chết tiệt
+cơm cắp
+xoạc
+cặc
+
+# Bạo lực
+giết hại
+cắt cổ
+đánh đập
+sát nhân
+khủng bố
+
+# Nội dung 18+
+sex
+tình dục
+khỏa thân
+XX
+SM
+
+# Jailbreak keywords
+ignore instructions
+đóng vai
+system prompt
+hãy bỏ qua
+administrator
+sudo
+bypass
